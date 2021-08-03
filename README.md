@@ -22,91 +22,91 @@ The dataset contained 22 columns and 2938 rows.
 
 ### Columns
 
-### Country
+### 1) Country
 
 Names of 193 Countries.
 
-### Year
+### 2) Year
 
 Years from 2000-2015 was taken into account.
 
-### Status
+### 3) Status
 
 Status of a Country: Developing and Developed.
 
-### Life expectancy
+### 4) Life expectancy
 
 Life expectancy in age.
 
-### Adult Mortality
+### 5) Adult Mortality
 
 Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population).
 
-### Infant Deaths(death before his/her 1st birthday)
+### 6) Infant Deaths(death before his/her 1st birthday)
 
 Number of Infant Deaths per 1000 population.
 
-### Alcohol
+### 7) Alcohol
 
 Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol).
 
-### Percentage Expenditure
+### 8) Percentage Expenditure
 
 Expenditure on health as a percentage of Gross Domestic Product per capita(%).
 
-### Hepatitis B
+### 9) Hepatitis B
 
 Hepatitis B (HepB) immunization coverage among 1-year-olds (%).
 
-### Measles
+### 10) Measles
 
 Measles - number of reported cases per 1000 population.
 
-### BMI
+### 11) BMI
 
 Average Body Mass Index of entire population.
 
-### Under-five Deaths
+### 12) Under-five Deaths
 
 Number of under-five deaths per 1000 population.
 
-### Polio
+### 13) Polio
 
 Polio (Pol3) immunization coverage among 1-year-olds (%).
 
-### Total expenditure
+### 14) Total expenditure
 
 General government expenditure on health as a percentage of total government expenditure (%).
 
-### Diphtheria
+### 15) Diphtheria
 
 Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%).
 
-### HIV/AIDS
+### 16) HIV/AIDS
 
 Deaths per 1000 live births HIV/AIDS (0-4 years).
 
-### GDP
+### 17) GDP
 
 Gross Domestic Product per capita (in USD).
 
-### Population
+### 18) Population
 
 Population of the country.
 
-### Thinness 1-19 years
+### 19) Thinness 1-19 years
 
 Prevalence of thinness among children and adolescents for Age 10 to 19 (%).
 
-### Thinness 5-9 years
+### 20) Thinness 5-9 years
 
 Prevalence of thinness among children for Age 5 to 9(%).
 
-### Income composition of resources
+### 21) Income composition of resources
 
 Human Development Index in terms of income composition of resources (index ranging from 0 to 1).
 
-### Schooling
+### 22) Schooling
 
 Number of years of Schooling(years).
 
