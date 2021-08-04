@@ -114,6 +114,15 @@ Number of years of Schooling(years).
 ## Procedure
 Initially, all the required packages were imported and the dataset was loaded. The data contained a healthy amount of missing values. During the pre-processing of the data, all the missing values were removed using bfill(), ffill() and drop() methods. During EDA, different insights were drawn based on each question and visualization was also done for a better understanding of the analysis.
 
+## Programming language
+Python 3
+
+## Libraries imported
+
+1) Pandas
+2) Numpy
+3) Matplotlib
+4) Seaborn
 
 ## Conclusion
 
